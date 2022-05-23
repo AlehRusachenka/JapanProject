@@ -809,7 +809,7 @@ img {
     grid-column: span 6;
   }
   .top__card-stats {
-    max-width: 386px;
+    max-width: 100%;
   }
   .top__card-decs {
     margin-bottom: 15px;
